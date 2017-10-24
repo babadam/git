@@ -1,0 +1,8 @@
+git init : initialise le repository première commande à faire 
+
+git add -A : dit à git de regarder tous les fichiers présents dans le repository
+
+git commit -m "Quelques modifications ... " permet de commit les fichiers, de les valider. Git prends alors une "photo" de tous les fichier et la retient
+"Quelques modifications" est le commentaire attaché au commit (nom de notre commit)
+
+dnskndqskdqs
