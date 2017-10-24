@@ -5,4 +5,12 @@ git add -A : dit à git de regarder tous les fichiers présents dans le repository
 git commit -m "Quelques modifications ... " permet de commit les fichiers, de les valider. Git prends alors une "photo" de tous les fichier et la retient
 "Quelques modifications" est le commentaire attaché au commit (nom de notre commit)
 
-dnskndqskdqs
+D'abord faire git add -A puis git commit -m
+
+git remote add origin url : permet de lier un repository github avec le repository local. URL est l'url du repository distant. "origin" est le nom du lien. 
+On fera git push origin master
+
+git push origin master : permet de push les commit locals sur le repository distant
+
+git pull origin master : permet de pull les commits du repository distant
+
